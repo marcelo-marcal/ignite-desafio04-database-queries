@@ -58,7 +58,7 @@ img
 
 ```
 # Clone este repositório
-$ git clone https://github.com/Thifany-Nicastro/IgniteNode-ChapterIII-Desafio01.git
+$ git clone
 
 # Instale as dependências
 $ yarn ou yarn install
